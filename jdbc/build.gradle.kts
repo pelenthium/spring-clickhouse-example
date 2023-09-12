@@ -25,7 +25,7 @@ dependencies {
 	implementation("org.springframework.boot:spring-boot-starter-web")
 	implementation("com.fasterxml.jackson.module:jackson-module-kotlin")
 	implementation("org.jetbrains.kotlin:kotlin-reflect")
-	implementation("io.github.pelenthium:clickhouse-dialect-spring-boot-starter:1.1.0")
+	implementation("io.github.pelenthium:clickhouse-dialect-spring-boot-starter:1.2.0")
 	implementation("com.clickhouse:clickhouse-jdbc:0.4.6")
 	implementation("org.lz4:lz4-java:1.8.0")
 
